@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iyoruivo.github.io/sitemap_index.iyoruivo
